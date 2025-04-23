@@ -1,0 +1,3 @@
+baseURL = 'https://pypi0.github.io'
+languageCode = 'en-us'
+title = 'Robert Personal Website'
